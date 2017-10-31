@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Lect7_CustomListView.iml" filepath="$PROJECT_DIR$/Lect7_CustomListView.iml" />
+      <module fileurl="file://F:\CS591 Mobile App Dev\MovieApp\Lect7_CustomListView\Lect7_CustomListView.iml" filepath="F:\CS591 Mobile App Dev\MovieApp\Lect7_CustomListView\Lect7_CustomListView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://F:\CS591 Mobile App Dev\MovieApp\Lect7_CustomListView\app\app.iml" filepath="F:\CS591 Mobile App Dev\MovieApp\Lect7_CustomListView\app\app.iml" />
+    </modules>
+  </component>
+</project>
